@@ -1,4 +1,11 @@
-# [Aula 1](Aula1.md)
+<H1 Disciplina de Sistemas Operacionais e Redes>
+## Prof. Alaelson Jatobá
+## Instituto Federal de Alagoas
+## Turma 2025
+## Curso de Desenvolvimente de Sistemas
+
+
+### [Aula 1](Aula1.md)
 **Definições, histórico e visão geral dos Sistemas Operacionais**  
 Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)  
 
