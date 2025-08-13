@@ -12,7 +12,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Introduzir conceitos: processos/threads, memória, E/S, arquivos e chamadas de sistema
 - Preparar para aprofundar: escalonamento, sincronização, sistemas de arquivos e segurança
 
-> **Notas:** Relacionar objetivos com a organização do curso. MOS Cap. 1.1–1.2.
+> **Notas:** Relacionar objetivos com a organização do curso. SOM Cap. 1.1–1.2.
 
 ---
 
@@ -22,16 +22,20 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Fornece abstrações: arquivos, processos, sockets, janelas
 - Objetivos: facilidade de uso, eficiência e segurança
 
-> **Notas:** Destacar a visão de máquina estendida e gerenciador de recursos. MOS Cap. 1.1.
+> **Notas:** Destacar a visão de máquina estendida e gerenciador de recursos. SOM Cap. 1.1.
 
 ---
 
 ## Visão de um Sistema Computacional
-- Processadores, memória principal e secundária, dispositivos de E/S, rede
-- Software de sistema e software aplicativo
-- Interação via chamadas de sistema
+- Consiste em um ou mais processadores, memória principal e secundária (discos), interfaces de rede e dispositivos de entrada e saída (impressoras, teclado, mouse, monitor e etc.)
+- É um sistema complexo
+- Modo núcleo e modo usuário
+- Interação via chamadas de sistemas
+  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 
-> **Notas:** Contextualizar hardware e software. MOS Cap. 1.2.
+  <img src="https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Fsistemas-operacionais&psig=AOvVaw03PEXztSEhQyrCRGaTgqpD&ust=1755196960959000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCKDAlY-5iI8DFQAAAAAdAAAAABAS" alt="Figura 1.1: Onde o SO se encaixa"  width="500" height="600">
+
+> **Notas:** Contextualizar hardware e software. SOM Cap. 1.2.
 
 ---
 
@@ -40,7 +44,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Gerenciador: media acesso a CPU, memória, disco e E/S
 - Critérios: desempenho, justiça, política vs. mecanismo
 
-> **Notas:** Explicar exemplos de políticas e mecanismos. MOS Cap. 1.3.
+> **Notas:** Explicar exemplos de políticas e mecanismos. SOM Cap. 1.3.
 
 ---
 
@@ -49,7 +53,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - → Microarquitetura → Dispositivos físicos
 - Vantagens: portabilidade, manutenção, segurança
 
-> **Notas:** Usar diagrama de camadas. MOS Cap. 1.4.
+> **Notas:** Usar diagrama de camadas. SOM Cap. 1.4.
 
 ---
 
@@ -59,7 +63,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Drivers e gerenciamento de interrupções
 - Interfaces de usuário: CLI e GUI
 
-> **Notas:** Explicar papel das chamadas de sistema. MOS Cap. 1.5.
+> **Notas:** Explicar papel das chamadas de sistema. SOM Cap. 1.5.
 
 ---
 
@@ -68,7 +72,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Chamadas de sistema: transição para o kernel
 - Exemplos: open, read, write, fork/exec, socket
 
-> **Notas:** Mostrar fluxo app → syscall → kernel. MOS Cap. 1.5.
+> **Notas:** Mostrar fluxo app → syscall → kernel. SOM Cap. 1.5.
 
 ---
 
@@ -77,7 +81,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Gráfica (GUI)
 - APIs e bibliotecas padrão (POSIX, Win32)
 
-> **Notas:** Comparar CLI e GUI. MOS Cap. 1.5.
+> **Notas:** Comparar CLI e GUI. SOM Cap. 1.5.
 
 ---
 
@@ -86,7 +90,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Multiprogramação
 - Time-sharing
 
-> **Notas:** Comparar throughput x interatividade. MOS Cap. 1.6.
+> **Notas:** Comparar throughput x interatividade. SOM Cap. 1.6.
 
 ---
 
@@ -94,7 +98,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Válvulas (tubos a vácuo)
 - Sem SO: programação direta no hardware
 
-> **Notas:** Destacar ausência de SO. MOS Cap. 1.6.
+> **Notas:** Destacar ausência de SO. SOM Cap. 1.6.
 
 ---
 
@@ -102,7 +106,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Transistores; Assembly e FORTRAN
 - Sistemas de lote (batch), spooling inicial
 
-> **Notas:** Explicar spooling. MOS Cap. 1.6.
+> **Notas:** Explicar spooling. SOM Cap. 1.6.
 
 ---
 
@@ -111,7 +115,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Multiprogramação e time-sharing
 - IBM OS/360
 
-> **Notas:** Importância do OS/360. MOS Cap. 1.6.
+> **Notas:** Importância do OS/360. SOM Cap. 1.6.
 
 ---
 
@@ -120,7 +124,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - MS-DOS, Windows, Mac OS
 - Início da Internet
 
-> **Notas:** Popularização do PC. MOS Cap. 1.6.
+> **Notas:** Popularização do PC. SOM Cap. 1.6.
 
 ---
 
@@ -129,7 +133,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - SOs com TCP/IP, multiprocessamento, segurança
 - Tempo real, mobile, IoT, CPS
 
-> **Notas:** Conexão com mobilidade. MOS Cap. 1.6–1.7.
+> **Notas:** Conexão com mobilidade. SOM Cap. 1.6–1.7.
 
 ---
 
@@ -139,7 +143,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Servidor: Linux, Windows Server, BSDs
 - Embarcados: VxWorks, FreeRTOS
 
-> **Notas:** Diferentes requisitos por domínio. MOS Cap. 1.7.
+> **Notas:** Diferentes requisitos por domínio. SOM Cap. 1.7.
 
 ---
 
@@ -157,4 +161,4 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Silberschatz, A.; Galvin, P.; Gagne, G. *Operating System Concepts*
 - Próxima aula: Tipos de SO e Estruturas do Kernel
 
-> **Notas:** Indicar leitura prévia. MOS Cap. 2.
+> **Notas:** Indicar leitura prévia. SOM Cap. 2.
