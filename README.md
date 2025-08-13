@@ -1,6 +1,6 @@
 <H1 style="text-align:center;">Disciplina de Sistemas Operacionais e Redes</H1>
 <H2 style="text-align:center;">Prof. Alaelson Jatobá</H2>
-<center><H2>Instituto Federal de Alagoas</br>
+<center><H2>Prof. Alaelson Jatobá</br>Instituto Federal de Alagoas</br>
 Turma 2025: Curso de Desenvolvimente de Sistemas</H2></center>
 
 
