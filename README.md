@@ -1,4 +1,4 @@
-<H1>Disciplina de Sistemas Operacionais e Redes</H1>
+<H1><center>Disciplina de Sistemas Operacionais e Redes<center></H1>
 ## Prof. Alaelson Jatobá
 ## Instituto Federal de Alagoas
 ## Turma 2025
