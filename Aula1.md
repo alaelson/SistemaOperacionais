@@ -31,7 +31,9 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - É um sistema complexo
 - Modo de Linha de Comando (CLI/Shell) e modo Graphical User Interface (GUI)
 - Interação via chamadas de sistemas
-  <img src="[terminal_vs_gui.jpg](https://cambiotraining.github.io/unix-shell/materials/01-basics/images/terminal_vs_gui.png)" alt="Girl in a jacket" width="480"  alt="Modo Shell vs Modo GUI">
+
+- https://cambiotraining.github.io/unix-shell/materials/01-basics/01-unix_overview.html#fig-gui-cli
+  <img src="[terminal_vs_gui.jpg](https://cambiotraining.github.io/unix-shell/materials/01-basics/01-unix_overview.html#fig-gui-cli)" width="500"  alt="Modo Shell vs Modo GUI">
 
 
 
