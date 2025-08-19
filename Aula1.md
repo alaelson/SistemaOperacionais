@@ -29,11 +29,12 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 ## Visão de um Sistema Computacional
 - Consiste em um ou mais processadores, memória principal e secundária (discos), interfaces de rede e dispositivos de entrada e saída (impressoras, teclado, mouse, monitor e etc.)
 - É um sistema complexo
-- Modo núcleo e modo usuário
+- Modo de Linha de Comando (CLI/Shell) e modo Graphical User Interface (GUI)
 - Interação via chamadas de sistemas
-  <img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+  <img src="[img_girl.jpg](https://cambiotraining.github.io/unix-shell/materials/01-basics/images/terminal_vs_gui.png)" alt="Girl in a jacket" width="480"  alt="Modo Shell vs Modo GUI">
 
-  <img src="https%3A%2F%2Fwww.alura.com.br%2Fartigos%2Fsistemas-operacionais&psig=AOvVaw03PEXztSEhQyrCRGaTgqpD&ust=1755196960959000&source=images&cd=vfe&opi=89978449&ved=0CBgQjhxqFwoTCKDAlY-5iI8DFQAAAAAdAAAAABAS" alt="Figura 1.1: Onde o SO se encaixa"  width="500" height="600">
+
+
 
 > **Notas:** Contextualizar hardware e software. SOM Cap. 1.2.
 
