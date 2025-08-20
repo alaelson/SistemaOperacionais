@@ -10,4 +10,4 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 > **Notas:** Contextualizar a disciplina, objetivos da aula. Seguiremos a estrutura do Cap. 1 do Tanenbaum & Bos (MOS, 3ª/4ª ed.).
 
 
-### [Seminários 1º Bimestre - Turma 2](Seminarios1B_Turma2.md)
+### [Seminários 1º Bimestre - Turma 2](Seminarios1B-Turma2.md)
