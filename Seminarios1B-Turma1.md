@@ -6,7 +6,7 @@ Overview dos Computadores de 1ª a 5ª Geração com enfoque aos sistemas operac
 
 Group 1: Breve Overview dos Computadores de 1ª e 2ª Geração
 
-  - 1 Diogo
+  - Diogo
   - Charlie
   - José Nielson
   - Hellen
