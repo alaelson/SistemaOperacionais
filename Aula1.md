@@ -32,7 +32,6 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Modo de Linha de Comando (CLI/Shell) e modo Graphical User Interface (GUI)
 - Interação via chamadas de sistemas
 
-- https://cambiotraining.github.io/unix-shell/materials/01-basics/01-unix_overview.html#fig-gui-cli
   <img src="https://cambiotraining.github.io/unix-shell/materials/01-basics/images/terminal_vs_gui.png" width="500"  alt="Modo Shell vs Modo GUI">
 
 
