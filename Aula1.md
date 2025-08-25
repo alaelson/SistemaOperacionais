@@ -33,9 +33,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 - Interação via chamadas de sistemas
 
 - https://cambiotraining.github.io/unix-shell/materials/01-basics/01-unix_overview.html#fig-gui-cli
-  <img src="[terminal_vs_gui.jpg](https://cambiotraining.github.io/unix-shell/materials/01-basics/01-unix_overview.html#fig-gui-cli)" width="500"  alt="Modo Shell vs Modo GUI">
-
-
+  <img src="https://cambiotraining.github.io/unix-shell/materials/01-basics/images/terminal_vs_gui.png" width="500"  alt="Modo Shell vs Modo GUI">
 
 
 > **Notas:** Contextualizar hardware e software. SOM Cap. 1.2.
@@ -150,7 +148,7 @@ Baseado em: *Modern Operating Systems* (A. S. Tanenbaum & H. Bos)
 
 ---
 
-## Conclusões
+## Conclusão
 - SO fornece abstrações e gerencia recursos
 - História explica decisões de projeto
 - Base para próximos temas: processos, escalonamento, memória, E/S
